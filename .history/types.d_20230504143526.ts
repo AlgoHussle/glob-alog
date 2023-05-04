@@ -1,0 +1,4 @@
+type Blogpost = {
+    id: string;
+    
+}
